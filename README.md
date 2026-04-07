@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Servidor L4D2 Dystopia</title>
@@ -8,4 +8,4 @@
     <p>IP del servidor: 192.168.1.100:27015</p>
     <p>Modos: Campaña, Supervivencia, Competitivo</p>
 </body>
-</html>Copied!   
+</html>
